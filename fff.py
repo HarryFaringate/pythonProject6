@@ -50,5 +50,6 @@ def sale ():
             return
         
 sale()
-
+bying()
+print("НЕ ВЫШЛО")
 
